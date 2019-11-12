@@ -5,6 +5,9 @@
 #include <iostream>
 #include <array>
 
+#define _USE_MATH_DEFINES
+using namespace std;
+
 int *Reflect(float x[], float y[], int n)
 {
     int *arr = new int[n * 2 + 2];

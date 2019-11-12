@@ -9,7 +9,6 @@
 //#include "Triangulo.h"
 
 #define _USE_MATH_DEFINES
-
 using namespace std;
 
 int main(){
