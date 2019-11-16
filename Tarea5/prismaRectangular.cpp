@@ -1,4 +1,4 @@
-#include "prismarec.h"
+#include "prismaRectangular.h"
 #include "ui_prismarec.h"
 #include <math.h>
 

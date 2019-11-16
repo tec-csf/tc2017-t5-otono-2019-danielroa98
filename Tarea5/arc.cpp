@@ -1,5 +1,5 @@
-#include "arcos.h"
-#include "ui_arcos.h"
+#include "arc.h"
+#include "ui_arc.h"
 #include <QMessageBox>
 #include <math.h>
 

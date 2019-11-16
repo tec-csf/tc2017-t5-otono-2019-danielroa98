@@ -2,6 +2,6 @@
 
 Tarea orientada a la creación de figuras de figuras geométricas.
 
-Notas:
-    Parte del proyecto fue obtenido del repositorio:
-    https://github.com/yocoHM/GeometriaComputacional
+Notas:__
+    Parte del proyecto fue obtenido del repositorio:__
+    https://github.com/yocoHM/GeometriaComputacional__

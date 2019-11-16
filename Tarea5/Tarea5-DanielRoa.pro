@@ -8,29 +8,29 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         dialog.cpp \
-    poligonos.cpp \
-    arcos.cpp \
+    poligono.cpp \
+    arc.cpp \
     cubo.cpp \
-    prismarec.cpp \
-    prismatri.cpp \
+    prismaRectangular.cpp \
+    prismaTriangular.cpp \
     cono.cpp \
     transformaciones.cpp
 
 HEADERS  += dialog.h \
-    poligonos.h \
-    arcos.h \
+    poligono.h \
+    arc.h \
     cubo.h \
-    prismarec.h \
-    prismatri.h \
+    prismaRectangular.h \
+    prismaTriangular.h \
     cono.h \
     transformaciones.h
 
 FORMS    += dialog.ui \
-    poligonos.ui \
-    arcos.ui \
+    poligono.ui \
+    arc.ui \
     cubo.ui \
-    prismarec.ui \
-    prismatri.ui \
+    prismaRectangular.ui \
+    prismaTriangular.ui \
     cono.ui
 
 CONFIG-=app_bundle

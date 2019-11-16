@@ -1,5 +1,5 @@
-#include "poligonos.h"
-#include "ui_poligonos.h"
+#include "poligono.h"
+#include "ui_poligono.h"
 #include <QMessageBox>
 #include <math.h>
 
